@@ -1,0 +1,6 @@
+# Core PDF‑generation & form tooling
+reportlab>=4.0.7          # Creates the base PDF layout
+pypdf>=4.0                # Adds, edits, and manages PDF form fields (+ better dropdown support)
+
+# Date utilities for month/year calculations
+python-dateutil>=2.8.2     # Provides relativedelta for generating month/year options

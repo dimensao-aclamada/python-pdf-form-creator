@@ -1,3 +1,15 @@
+#images
+*.DS_Store
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+#pdf
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
